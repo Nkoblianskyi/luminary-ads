@@ -113,4 +113,23 @@ export const proyectos = [
     services: ["Puntos de Marca para Eventos", "BTL", "Sampling"],
     year: 2025,
   },
+  {
+    id: 7,
+    titulo: "Red de Puntos de Apuestas y Publicidad para Betting",
+    slug: "red-puntos-apuestas-publicidad-betting",
+    cliente: "BetMaster",
+    imagen: "/9bfa24ff77e7fd01ee3bcfd17d7f7fc0.jpg",
+    descripcion:
+      "Implementación de una red de puntos físicos de recepción de apuestas y campaña integral de publicidad offline en zonas estratégicas.",
+    categoria: "Publicidad Exterior",
+    año: 2025,
+    // Añadir campos adicionales necesarios para el componente ProyectosDestacados
+    title: "Red de Puntos de Apuestas y Publicidad para Betting",
+    client: "BetMaster",
+    image: "/9bfa24ff77e7fd01ee3bcfd17d7f7fc0.jpg",
+    challenge:
+      "Aumentar la presencia física y notoriedad de marca de una casa de apuestas deportivas en un mercado altamente competitivo y regulado.",
+    services: ["Publicidad en Vallas", "Materiales POS", "Instalaciones", "BTL"],
+    year: 2025,
+  },
 ]
