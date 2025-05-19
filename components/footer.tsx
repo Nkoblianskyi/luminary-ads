@@ -90,11 +90,6 @@ export default function Footer() {
                   Política de Cookies
                 </Link>
               </li>
-              <li>
-                <Link href="/aviso-legal" className="text-sm text-muted-foreground hover:text-primary">
-                  Aviso Legal
-                </Link>
-              </li>
             </ul>
           </div>
         </div>
